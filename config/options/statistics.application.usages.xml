@@ -1,0 +1,167 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="babasportrefactoring" values="ECMAScript 5.1" collectionTime="1474611188282" />
+      <project id="ZeroMQTest" values="ECMAScript 5.1" collectionTime="1474554407163" />
+      <project id="linux-tutorial" values="ECMAScript 5.1" collectionTime="1474555735678" />
+      <project id="babasport" values="ECMAScript 5.1" collectionTime="1474619502551" />
+      <project id="SpringMVCTest" values="ECMAScript 5.1" collectionTime="1474611718492" />
+      <project id="masterSpringMVC8" values="ECMAScript 5.1" collectionTime="1474707555029" />
+      <project id="masterSpringMVC7" values="ECMAScript 5.1" collectionTime="1474640133581" />
+      <project id="masterSpringMVC6" values="ECMAScript 5.1" collectionTime="1474640012816" />
+      <project id="masterSpringMVC4_assemble" values="ECMAScript 5.1" collectionTime="1474639773039" />
+      <project id="masterSpringMVC_chapter4" values="ECMAScript 5.1" collectionTime="1474639037495" />
+      <project id="masterSpringMVC_chapter3" values="ECMAScript 5.1" collectionTime="1474637149515" />
+    </group>
+    <group name="module type">
+      <project id="babasportrefactoring" values="JAVA_MODULE" collectionTime="1474611188179" />
+      <project id="ZeroMQTest" values="JAVA_MODULE" collectionTime="1474554406558" />
+      <project id="babasport" values="JAVA_MODULE" collectionTime="1474619502235" />
+      <project id="masterSpringMVC8" values="JAVA_MODULE" collectionTime="1474707553373" />
+      <project id="masterSpringMVC7" values="JAVA_MODULE" collectionTime="1474640133532" />
+      <project id="masterSpringMVC6" values="JAVA_MODULE" collectionTime="1474640012760" />
+      <project id="masterSpringMVC4_assemble" values="JAVA_MODULE" collectionTime="1474639772987" />
+      <project id="masterSpringMVC_chapter4" values="JAVA_MODULE" collectionTime="1474639037436" />
+      <project id="masterSpringMVC_chapter3" values="JAVA_MODULE" collectionTime="1474637149462" />
+    </group>
+    <group name="vcs">
+      <project id="masterSpringMVC_chapter3" values="Git" collectionTime="1474637149462" />
+    </group>
+    <group name="Spring Boot">
+      <project id="masterSpringMVC8" values="application.properties,RunConfigsPerProject_0,ConfigurationProperties_1" collectionTime="1474707555038" />
+      <project id="masterSpringMVC7" values="ConfigurationProperties_1,RunConfigsPerProject_0,application.properties" collectionTime="1474640133582" />
+      <project id="masterSpringMVC6" values="application.properties,ConfigurationProperties_1,RunConfigsPerProject_1" collectionTime="1474640012817" />
+      <project id="masterSpringMVC4_assemble" values="ConfigurationProperties_1,application.properties,RunConfigsPerProject_1" collectionTime="1474639773040" />
+      <project id="masterSpringMVC_chapter4" values="application.properties,ConfigurationProperties_1,RunConfigsPerProject_1" collectionTime="1474639037500" />
+      <project id="masterSpringMVC_chapter3" values="application.properties,RunConfigsPerProject_1" collectionTime="1474637149515" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="babasportrefactoring" values="Application" collectionTime="1474611188180" />
+      <project id="ZeroMQTest" values="Application" collectionTime="1474554406559" />
+      <project id="masterSpringMVC8" values="GradleRunConfiguration" collectionTime="1474707553374" />
+      <project id="masterSpringMVC7" values="JUnit" collectionTime="1474640133532" />
+      <project id="masterSpringMVC6" values="GroovyScriptRunConfiguration,SpringBootApplicationConfigurationType" collectionTime="1474640012760" />
+      <project id="masterSpringMVC4_assemble" values="SpringBootApplicationConfigurationType,GroovyScriptRunConfiguration" collectionTime="1474639772987" />
+      <project id="masterSpringMVC_chapter4" values="SpringBootApplicationConfigurationType" collectionTime="1474639037436" />
+      <project id="masterSpringMVC_chapter3" values="SpringBootApplicationConfigurationType" collectionTime="1474637149463" />
+    </group>
+    <group name="file-type">
+      <project id="babasportrefactoring" values="JSP,CSS,XML,UNKNOWN,Images,IDEA_MODULE,Properties,PLAIN_TEXT,JAVA,HTML" collectionTime="1474611188250" />
+      <project id="ZeroMQTest" values="XML,HTML,UNKNOWN,JAVA,IDEA_MODULE" collectionTime="1474554406653" />
+      <project id="linux-tutorial" values="UNKNOWN" collectionTime="1474555735650" />
+      <project id="babasport" values="HTML,JSP,Properties,IDEA_MODULE,JAVA,CSS,JavaScript,Eclipse,ARCHIVE,PLAIN_TEXT,Images,XML,UNKNOWN,Manifest" collectionTime="1474619502347" />
+      <project id="SpringMVCTest" values="UNKNOWN" collectionTime="1474611718489" />
+      <project id="masterSpringMVC8" values="HTML,JAVA,Properties,UNKNOWN,XML,Images,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,Groovy" collectionTime="1474707553412" />
+      <project id="masterSpringMVC7" values="PLAIN_TEXT,XML,IDEA_MODULE,ARCHIVE,UNKNOWN,JAVA,Images,Properties,HTML,Groovy" collectionTime="1474640133571" />
+      <project id="masterSpringMVC6" values="HTML,PLAIN_TEXT,JAVA,XML,UNKNOWN,Images,IDEA_MODULE,Groovy,Properties,ARCHIVE" collectionTime="1474640012805" />
+      <project id="masterSpringMVC4_assemble" values="UNKNOWN,HTML,Properties,XML,PLAIN_TEXT,IDEA_MODULE,Groovy,Images,ARCHIVE,JAVA" collectionTime="1474639773030" />
+      <project id="masterSpringMVC_chapter4" values="Images,Properties,PLAIN_TEXT,XML,JAVA,DATASOURCE_STORAGE,ARCHIVE,HTML,UNKNOWN,IDEA_MODULE,Groovy" collectionTime="1474639037474" />
+      <project id="masterSpringMVC_chapter3" values="HTML,Groovy,UNKNOWN,Properties,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,XML,JAVA" collectionTime="1474637149503" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="masterSpringMVC_chapter4" values="MySQL/5.5.8-mycat-1.5.1-RELEASE-20160816173057" collectionTime="1474639037495" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="masterSpringMVC_chapter4" values="com.mysql.jdbc.Driver" collectionTime="1474639037495" />
+    </group>
+    <group name="frameworks">
+      <project id="babasportrefactoring" values="web" collectionTime="1474611188179" />
+      <project id="masterSpringMVC7" values="Spring" collectionTime="1474640133532" />
+      <project id="masterSpringMVC6" values="Spring" collectionTime="1474640012760" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="babasportrefactoring" values="Project,Project" collectionTime="1474611188282" />
+      <project id="ZeroMQTest" values="Project,Project" collectionTime="1474554407163" />
+      <project id="linux-tutorial" values="Project,Project" collectionTime="1474555735678" />
+      <project id="babasport" values="Project,Project" collectionTime="1474619502551" />
+      <project id="SpringMVCTest" values="Project,Project" collectionTime="1474611718492" />
+      <project id="masterSpringMVC8" values="Project,Project" collectionTime="1474707555029" />
+      <project id="masterSpringMVC7" values="Project,Project" collectionTime="1474640133581" />
+      <project id="masterSpringMVC6" values="Project,Project" collectionTime="1474640012816" />
+      <project id="masterSpringMVC4_assemble" values="Project,Project" collectionTime="1474639773039" />
+      <project id="masterSpringMVC_chapter4" values="Project,Project" collectionTime="1474639037495" />
+      <project id="masterSpringMVC_chapter3" values="Project,Project" collectionTime="1474637149515" />
+    </group>
+    <group name="Git">
+      <project id="babasportrefactoring" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1474611188280" />
+      <project id="ZeroMQTest" values="config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1474554406676" />
+      <project id="linux-tutorial" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1474555735659" />
+      <project id="babasport" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1474619502390" />
+      <project id="SpringMVCTest" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1474611718490" />
+      <project id="masterSpringMVC8" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1474707554294" />
+      <project id="masterSpringMVC7" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1474640133579" />
+      <project id="masterSpringMVC6" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1474640012814" />
+      <project id="masterSpringMVC4_assemble" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1474639773038" />
+      <project id="masterSpringMVC_chapter4" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.DONT_SYNC,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1474639037483" />
+      <project id="masterSpringMVC_chapter3" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1474637149513" />
+    </group>
+    <group name="libraries">
+      <project id="babasportrefactoring" values="struts2,spring,hibernate,TransactionJavaee" collectionTime="1474611188262" />
+      <project id="babasport" values="hibernate,spring,TransactionJavaee" collectionTime="1474619502372" />
+      <project id="masterSpringMVC8" values="spring-security,EJB,spring-mvc,WebSocket,BeanValidation,spring-boot,groovy,spring,thymeleaf,CDI" collectionTime="1474707554245" />
+      <project id="masterSpringMVC7" values="EJB,BeanValidation,spring,spring-boot,WebSocket,thymeleaf,CDI,spring-mvc,groovy" collectionTime="1474640133572" />
+      <project id="masterSpringMVC6" values="groovy,CDI,EJB,spring-mvc,spring-boot,BeanValidation,thymeleaf,WebSocket,spring" collectionTime="1474640012805" />
+      <project id="masterSpringMVC4_assemble" values="groovy,thymeleaf,EJB,spring-mvc,WebSocket,BeanValidation,spring,CDI,spring-boot" collectionTime="1474639773031" />
+      <project id="masterSpringMVC_chapter4" values="spring,thymeleaf,WebSocket,spring-boot,groovy,spring-mvc,CDI,BeanValidation,EJB" collectionTime="1474639037475" />
+      <project id="masterSpringMVC_chapter3" values="spring-boot,EJB,thymeleaf,BeanValidation,spring,groovy,spring-mvc,CDI,WebSocket" collectionTime="1474637149504" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="babasportrefactoring" values="velocity_1.5,spring-mvc_2.5,freemarker_2.3,spring-core_3.0" collectionTime="1474611188278" />
+      <project id="babasport" values="velocity_1.6" collectionTime="1474619502388" />
+      <project id="masterSpringMVC8" values="thymeleaf_2.1,spring-boot_1.3,spring-core_4.2,spring-mvc_4.2,spring-security_4.0" collectionTime="1474707554293" />
+      <project id="masterSpringMVC7" values="spring-mvc_4.2,spring-boot_1.3,thymeleaf_2.1,spring-core_4.2" collectionTime="1474640133579" />
+      <project id="masterSpringMVC6" values="spring-boot_1.3,spring-mvc_4.2,thymeleaf_2.1,spring-core_4.2" collectionTime="1474640012814" />
+      <project id="masterSpringMVC4_assemble" values="spring-boot_1.3,thymeleaf_2.1,spring-mvc_4.2,spring-core_4.2" collectionTime="1474639773038" />
+      <project id="masterSpringMVC_chapter4" values="spring-mvc_4.2,spring-boot_1.3,spring-core_4.2,thymeleaf_2.1" collectionTime="1474639037483" />
+      <project id="masterSpringMVC_chapter3" values="spring-core_4.2,thymeleaf_2.1,spring-mvc_4.2,spring-boot_1.3" collectionTime="1474637149512" />
+    </group>
+    <group name="language-level">
+      <project id="babasportrefactoring" values="JDK_1_6,JDK_1_7" collectionTime="1474611188278" />
+      <project id="ZeroMQTest" values="JDK_1_7,JDK_1_5" collectionTime="1474554406675" />
+      <project id="linux-tutorial" values="JDK_1_6" collectionTime="1474555735658" />
+      <project id="babasport" values="JDK_1_7" collectionTime="1474619502389" />
+      <project id="SpringMVCTest" values="JDK_1_7" collectionTime="1474611718490" />
+      <project id="masterSpringMVC8" values="JDK_1_8" collectionTime="1474707554293" />
+      <project id="masterSpringMVC7" values="JDK_1_8" collectionTime="1474640133579" />
+      <project id="masterSpringMVC6" values="JDK_1_8" collectionTime="1474640012814" />
+      <project id="masterSpringMVC4_assemble" values="JDK_1_8" collectionTime="1474639773038" />
+      <project id="masterSpringMVC_chapter4" values="JDK_1_8" collectionTime="1474639037483" />
+      <project id="masterSpringMVC_chapter3" values="JDK_1_6" collectionTime="1474637149513" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="OpenInBrowser.Chrome" count="3" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="StripeButton[Project].hidden" count="1" />
+      <entry feature="execute.Application.Run" count="1" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="16" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.settings.Appearance" count="12" />
+      <entry feature="ide.settings.Code_Completion" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="7" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.Font" count="9" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Gradle" count="2" />
+      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.Maven" count="6" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="16" />
+      <entry feature="ide.settings.Repositories" count="1" />
+      <entry feature="ide.settings.SSH_Terminal" count="2" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="idea.caches.invalidated" count="2" />
+      <entry feature="ideaapp.started" count="8" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="11" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="6" />
+      <entry feature="terminal.win" count="14" />
+      <entry feature="uml.ShowDiagram.JAVA" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+    </counts>
+  </component>
+</application>

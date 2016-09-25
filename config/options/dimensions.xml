@@ -1,0 +1,54 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="744" y="130" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="627" y="89" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="673" y="337" />
+    <location key="SettingsEditor.0.0.1920.1080" x="467" y="174" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1304" y="755" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="666" y="355" />
+    <location key="#Project_Structure.0.0.1920.1080" x="444" y="91" />
+    <location key="org.jetbrains.idea.maven.utils.RepositoryAttachDialog.0.0.1920.1080" x="555" y="411" />
+    <location key="new project wizard.0.0.1920.1080" x="522" y="121" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="545" y="201" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="718" y="219" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="435" y="425" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="769" y="232" />
+    <location key="findTextDialog.0.0.1920.1080" x="718" y="233" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="419" y="172" />
+    <location key="StructurePopup.0.0.1920.1080" x="694" y="319" />
+    <location key="OptionsEditor.0.0.1920.1080" x="444" y="91" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="550" y="207" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="467" y="174" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="694" y="215" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="510" y="93" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="316" y="0" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="667" y="327" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1436" y="532" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@120dpi" x="632" y="202" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="725" y="161" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080@120dpi" x="760" y="388" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080@120dpi" x="703" y="169" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="435" y="151" />
+    <location key="findTextDialog.0.0.1920.1080@120dpi" x="718" y="175" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080@120dpi" x="649" y="316" />
+    <location key="OptionsEditor.0.0.1920.1080@120dpi" x="316" y="0" />
+    <location key="#Inspections.0.0.1920.1080@120dpi" x="594" y="170" />
+    <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="682" y="250" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="228" height="173" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1315" height="690" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="276" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="276" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="276" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="276" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="1050" height="206" />
+    <size key="StructurePopup.0.0.1920.1080" width="522" height="368" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="252" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="252" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="252" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1866" height="252" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1262" height="856" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="441" height="262" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="594" height="214" />
+  </component>
+</application>

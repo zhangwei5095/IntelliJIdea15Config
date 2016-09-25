@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="Play2ModuleTypeConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\compiler.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\copyright\profiles_settings.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\encodings.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\gradle.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\inspectionProfiles\Project_Default.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__aopalliance_aopalliance_1_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__asm_asm_3_3_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__cglib_cglib_nodep_2_1_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__ch_qos_logback_logback_classic_1_1_7.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__ch_qos_logback_logback_core_1_1_7.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_codeborne_phantomjsdriver_1_2_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_classmate_1_2_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_core_jackson_core_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_6_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_google_code_gson_gson_2_3_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_google_guava_guava_18_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__com_jayway_jsonpath_json_path_2_0_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__commons_codec_commons_codec_1_9.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__commons_logging_commons_logging_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_netty_netty_3_5_2_Final.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_core_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_schema_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_spi_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_spring_web_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_swagger2_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_swagger_common_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_springfox_springfox_swagger_ui_2_1_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_swagger_swagger_annotations_1_5_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__io_swagger_swagger_models_1_5_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__javax_inject_javax_inject_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__junit_junit_4_12.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__net_java_dev_jna_jna_3_4_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__net_java_dev_jna_platform_3_4_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__net_minidev_asm_1_0_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__net_minidev_json_smart_2_1_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_3_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_commons_commons_exec_1_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_commons_commons_pool2_2_4_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_httpcomponents_httpclient_4_5_2.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_httpcomponents_httpcore_4_4_4.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_33.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_33.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_33.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_33.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_aspectj_aspectjrt_1_8_9.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_aspectj_aspectjweaver_1_8_9.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_assertj_assertj_core_3_0_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_codehaus_groovy_groovy_2_4_6.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_codehaus_woodstox_stax2_api_3_1_4.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_fluentlenium_fluentlenium_assertj_0_10_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_fluentlenium_fluentlenium_core_0_10_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_json_json_20140107.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_mapstruct_mapstruct_1_0_0_Beta4.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_mockito_mockito_core_1_10_19.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_objenesis_objenesis_2_1.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_seleniumhq_selenium_selenium_api_2_45_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_seleniumhq_selenium_selenium_java_2_45_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_seleniumhq_selenium_selenium_leg_rc_2_45_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_seleniumhq_selenium_selenium_remote_driver_2_45_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_seleniumhq_selenium_selenium_support_2_45_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_slf4j_jcl_over_slf4j_1_7_21.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_slf4j_jul_to_slf4j_1_7_21.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_slf4j_log4j_over_slf4j_1_7_21.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_slf4j_slf4j_api_1_7_21.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_autoconfigure_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_configuration_processor_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_logging_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_redis_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_security_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_social_twitter_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_test_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_validation_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_boot_spring_boot_starter_web_1_3_5_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_data_spring_data_redis_1_6_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_hateoas_spring_hateoas_0_19_0_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_security_spring_security_config_4_0_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_security_spring_security_core_4_0_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_security_spring_security_crypto_4_0_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_security_spring_security_web_4_0_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_session_spring_session_1_0_1_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_social_spring_social_config_1_1_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_social_spring_social_core_1_1_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_social_spring_social_twitter_1_1_2_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_social_spring_social_web_1_1_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_aop_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_beans_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_context_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_context_support_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_core_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_expression_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_oxm_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_test_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_tx_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_web_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_springframework_spring_webmvc_4_2_6_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_thymeleaf_extras_thymeleaf_extras_springsecurity3_3_0_0_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_thymeleaf_thymeleaf_2_1_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_thymeleaf_thymeleaf_spring4_2_1_4_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_unbescape_unbescape_1_1_0_RELEASE.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_webbitserver_webbit_0_4_14.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_webjars_jquery_2_1_4.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_webjars_materializecss_0_96_0.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__org_yaml_snakeyaml_1_16.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\libraries\Gradle__redis_clients_jedis_2_7_3.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\misc.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\modules.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\uiDesigner.xml" timestamp="1472894808000" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\.idea\workspace.xml" timestamp="1474640133529" />
+    <file path="C:\tmp\masterSpringMVC-7.0.0\masterSpringMVC7.iml" timestamp="1472894808000" />
+  </project-files>
+</conversion>
+

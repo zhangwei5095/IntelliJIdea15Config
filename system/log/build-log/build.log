@@ -1,0 +1,60 @@
+2016-09-22 21:39:30,885 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/jps-launcher.jar;D:/apps/jdk1.7.0_72/lib/tools.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/optimizedFileManager.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/ecj-4.4.jar
+2016-09-22 21:39:31,324 [    439]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 365 ms
+2016-09-22 21:39:32,501 [   1616]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = D:/workspace/babasport12, global options path = C:/Users/ZHANGWEI5095@QQ.COM/.IntelliJIdea15/config/options
+2016-09-22 21:39:33,201 [   2316]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 700 ms
+2016-09-22 21:39:33,201 [   2316]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2016-09-22 21:39:33,572 [   2687]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=631767040
+2016-09-22 21:39:33,959 [   3074]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2016-09-22 21:39:34,095 [   3210]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-09-22 21:39:34,095 [   3210]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: false
+2016-09-22 21:39:34,122 [   3237]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-09-22 21:39:34,123 [   3238]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fa0fdca8
+2016-09-22 21:39:34,176 [   3291]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-09-22 21:39:34,187 [   3302]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 0
+2016-09-22 21:39:34,647 [   3762]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-09-22 21:39:34,899 [   4014]   INFO - s.incremental.java.JavaBuilder - Using javac 1.7.0_72 to compile java sources
+2016-09-22 21:39:34,902 [   4017]   INFO - s.incremental.java.JavaBuilder - Compiling 107 java files; module: babasport
+2016-09-22 21:39:35,528 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/jps-launcher.jar;D:/apps/jdk1.7.0_72/lib/tools.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/optimizedFileManager.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/ecj-4.4.jar
+2016-09-22 21:39:35,702 [    174]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 158 ms
+2016-09-22 21:39:35,708 [    180]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-09-22 21:39:35,722 [    194]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = D:/workspace/babasport12, global options path = C:/Users/ZHANGWEI5095@QQ.COM/.IntelliJIdea15/config/options
+2016-09-22 21:39:36,290 [    762]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 568 ms
+2016-09-22 21:39:36,290 [    762]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2016-09-22 21:39:36,383 [    855]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=631767040
+2016-09-22 21:39:36,504 [    976]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 977 ms
+2016-09-22 21:39:36,536 [   1008]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2016-09-23 11:04:29,830 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/jps-launcher.jar;D:/apps/jdk1.7.0_72/lib/tools.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/optimizedFileManager.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/ecj-4.4.jar
+2016-09-23 11:04:29,978 [    148]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 133 ms
+2016-09-23 11:04:31,062 [   1232]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = D:/workspace/babasportrefactoring, global options path = C:/Users/ZHANGWEI5095@QQ.COM/.IntelliJIdea15/config/options
+2016-09-23 11:04:31,500 [   1670]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: context.xml, relative output path is set to META-INF
+2016-09-23 11:04:31,501 [   1671]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: glassfish-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:31,501 [   1671]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: context.xml, relative output path is set to META-INF
+2016-09-23 11:04:31,501 [   1671]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: glassfish-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:31,501 [   1671]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: sun-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:31,573 [   1743]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 511 ms
+2016-09-23 11:04:31,573 [   1743]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 3 modules, 54 libraries
+2016-09-23 11:04:31,690 [   1860]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=631767040
+2016-09-23 11:04:31,811 [   1981]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-09-23 11:04:31,927 [   2097]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-09-23 11:04:31,927 [   2097]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: false
+2016-09-23 11:04:31,954 [   2124]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-09-23 11:04:31,954 [   2124]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c8497576
+2016-09-23 11:04:31,970 [   2140]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-09-23 11:04:32,028 [   2198]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-09-23 11:04:32,100 [   2270]   INFO - s.incremental.java.JavaBuilder - Using javac 1.7.0_72 to compile java sources
+2016-09-23 11:04:32,101 [   2271]   INFO - s.incremental.java.JavaBuilder - Compiling 11 java files; module: babasport1-30
+2016-09-23 11:04:32,768 [   2938]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2016-09-23 11:04:33,128 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/jps-launcher.jar;D:/apps/jdk1.7.0_72/lib/tools.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/optimizedFileManager.jar;C:/Program Files (x86)/JetBrains/IntelliJ IDEA 15.0.4/lib/ecj-4.4.jar
+2016-09-23 11:04:33,312 [    184]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 149 ms
+2016-09-23 11:04:33,318 [    190]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-09-23 11:04:33,329 [    201]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = D:/workspace/babasportrefactoring, global options path = C:/Users/ZHANGWEI5095@QQ.COM/.IntelliJIdea15/config/options
+2016-09-23 11:04:33,921 [    793]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: context.xml, relative output path is set to META-INF
+2016-09-23 11:04:33,921 [    793]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: context.xml, relative output path is set to META-INF
+2016-09-23 11:04:33,921 [    793]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: glassfish-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:33,921 [    793]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: glassfish-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:33,923 [    795]   INFO - avaeeModuleExtensionLoaderBase - Unknown config file id: sun-web.xml, relative output path is set to WEB-INF
+2016-09-23 11:04:34,002 [    874]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 673 ms
+2016-09-23 11:04:34,002 [    874]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 3 modules, 54 libraries
+2016-09-23 11:04:34,153 [   1025]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=631767040
+2016-09-23 11:04:34,281 [   1153]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1153 ms
+2016-09-23 11:05:17,445 [  44317]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

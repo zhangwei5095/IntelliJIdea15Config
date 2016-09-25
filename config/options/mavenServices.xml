@@ -1,0 +1,8 @@
+<application>
+  <component name="MavenServices">
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>http://192.168.2.220:8081/nexus/content/groups/public/</service-url>
+  </component>
+</application>

@@ -1,0 +1,44 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="evlsprt3.15" value="19" />
+    <property name="installed.kotlin.plugin.version" value="1.0.0-release-IJ143-75" />
+    <property name="android-component-compatibility-check" value="1474548882075" />
+    <property name="file.chooser.recent.files" value="C:/tmp/masterSpringMVC-8.0.0&#10;C:/tmp/masterSpringMVC-7.0.0&#10;C:/tmp/masterSpringMVC-6.0.0&#10;C:/tmp/masterSpringMVC-4.1.0&#10;C:/tmp/masterSpringMVC-4.0.0&#10;C:/tmp/masterSpringMVC-3.0.0&#10;D:/apps/jdk1.8.0_40&#10;D:/apps/repository&#10;D:/apps/gradle-2.3&#10;C:/tmp/masterSpringMVC-2.0.0&#10;D:/workspace/babasport&#10;D:/workspace/babasportrefactoring/pom.xml&#10;D:/&#10;D:/apps/apache-maven-3.0.5/conf/settings.xml&#10;D:/apps/apache-maven-3.0.5&#10;D:/apps/jdk1.7.0_72&#10;D:/workspace/babasport12" />
+    <property name="last.imported.location" value="D:/workspace/babasport12" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="8" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15186028" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.17937219" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.21929824" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.28208745" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.15186028" />
+    <property name="export.settings.path" value="D:\\settings.jar" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="project.wizard.group" value="spring" />
+    <property name="project.wizard.template" value="Node.js Express App" />
+    <property name="KEYMAP" value="maven" />
+    <property name="IJ_BASE_PACKAGE" value="io.springframework.examples" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="check&#10;&quot;New in 14&quot;" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="last.used.gradle.home" value="D:/apps/gradle-2.3" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="selected.color.option.type" value="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="Arquillian Deployment Method" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10970927" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10970927" />
+    <property name="power.save.mode" value="true" />
+    <property name="PLUGIN_FILTER" value="docker" />
+  </component>
+</application>

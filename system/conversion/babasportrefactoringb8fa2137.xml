@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="Play2ModuleTypeConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\workspace\babasportrefactoring\.idea\artifacts\babasport1_30_war.xml" timestamp="1474555909907" />
+    <file path="D:\workspace\babasportrefactoring\.idea\artifacts\babasport1_30_war_exploded.xml" timestamp="1474555909918" />
+    <file path="D:\workspace\babasportrefactoring\.idea\artifacts\babasportcompact_war.xml" timestamp="1474555909925" />
+    <file path="D:\workspace\babasportrefactoring\.idea\artifacts\babasportcompact_war_exploded.xml" timestamp="1474555909936" />
+    <file path="D:\workspace\babasportrefactoring\.idea\compiler.xml" timestamp="1474555909944" />
+    <file path="D:\workspace\babasportrefactoring\.idea\copyright\profiles_settings.xml" timestamp="1474555734165" />
+    <file path="D:\workspace\babasportrefactoring\.idea\dictionaries\ZHANGWEI5095_QQ_COM.xml" timestamp="1474596007656" />
+    <file path="D:\workspace\babasportrefactoring\.idea\encodings.xml" timestamp="1474555909949" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__antlr_antlr_2_7_6.xml" timestamp="1474555909978" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1474555909989" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__asm_asm_3_1.xml" timestamp="1474555909999" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__asm_asm_commons_3_1.xml" timestamp="1474555910017" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__asm_asm_tree_3_1.xml" timestamp="1474555910027" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__cglib_cglib_2_2.xml" timestamp="1474555910040" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__com_jgeppert_struts2_jquery_struts2_jquery_grid_plugin_3_0_0.xml" timestamp="1474555910046" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__com_jgeppert_struts2_jquery_struts2_jquery_plugin_3_0_0.xml" timestamp="1474555910062" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_collections_commons_collections_3_1.xml" timestamp="1474555910074" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_dbcp_commons_dbcp_1_2_2.xml" timestamp="1474555910082" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_2_2.xml" timestamp="1474555910096" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_io_commons_io_2_0_1.xml" timestamp="1474555910101" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_lang_commons_lang_2_5.xml" timestamp="1474555910112" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" timestamp="1474555910118" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__commons_pool_commons_pool_1_3.xml" timestamp="1474555910133" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1474555910142" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__javassist_javassist_3_12_0_GA.xml" timestamp="1474555910148" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__javax_servlet_jsp_jsp_api_2_1.xml" timestamp="1474555910160" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__javax_servlet_servlet_api_2_5.xml" timestamp="1474555910167" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__javax_transaction_jta_1_1.xml" timestamp="1474555910175" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__junit_junit_4_8_1.xml" timestamp="1474555910179" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__junit_junit_4_8_2.xml" timestamp="1474555910187" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_6.xml" timestamp="1474555910194" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__ognl_ognl_3_0_1.xml" timestamp="1474555910200" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__opensymphony_sitemesh_2_4_2.xml" timestamp="1474555910207" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_struts2_core_2_2_3.xml" timestamp="1474555910212" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_struts2_dojo_plugin_2_2_3.xml" timestamp="1474555910237" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_struts2_json_plugin_2_2_3.xml" timestamp="1474555910247" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_struts2_sitemesh_plugin_2_2_3.xml" timestamp="1474555910255" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_struts2_spring_plugin_2_2_3.xml" timestamp="1474555910265" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_struts_xwork_xwork_core_2_2_3.xml" timestamp="1474555910276" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_apache_velocity_velocity_1_5.xml" timestamp="1474555910304" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_freemarker_freemarker_2_3_16.xml" timestamp="1474555910313" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" timestamp="1474555910317" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_hibernate_hibernate_core_3_6_0_Final.xml" timestamp="1474555910325" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_3_6_0_Final.xml" timestamp="1474555910331" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_hibernate_java_persistence_jpa_api_2_0_cr_1.xml" timestamp="1474555910337" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" timestamp="1474555910413" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_1.xml" timestamp="1474555910419" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_slf4j_slf4j_nop_1_6_1.xml" timestamp="1474555910427" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" timestamp="1474555910432" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" timestamp="1474555910442" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" timestamp="1474555910448" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" timestamp="1474555910454" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_context_support_3_0_5_RELEASE.xml" timestamp="1474555910465" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" timestamp="1474555910474" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" timestamp="1474555910481" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_jdbc_3_0_5_RELEASE.xml" timestamp="1474555910487" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_orm_3_0_5_RELEASE.xml" timestamp="1474555910520" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_oxm_3_0_5_RELEASE.xml" timestamp="1474555910525" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_test_3_0_5_RELEASE.xml" timestamp="1474555910530" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_tx_3_0_5_RELEASE.xml" timestamp="1474555910539" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__org_springframework_spring_web_2_5_6.xml" timestamp="1474555910544" />
+    <file path="D:\workspace\babasportrefactoring\.idea\libraries\Maven__oro_oro_2_0_8.xml" timestamp="1474555910549" />
+    <file path="D:\workspace\babasportrefactoring\.idea\misc.xml" timestamp="1474595909470" />
+    <file path="D:\workspace\babasportrefactoring\.idea\modules.xml" timestamp="1474555909958" />
+    <file path="D:\workspace\babasportrefactoring\.idea\workspace.xml" timestamp="1474611188159" />
+    <file path="D:\workspace\babasportrefactoring\babasport1-30\babasport1-30.iml" timestamp="1474598262225" />
+    <file path="D:\workspace\babasportrefactoring\babasportcompact\babasportcompact.iml" timestamp="1474555909851" />
+    <file path="D:\workspace\babasportrefactoring\babasportrefactoring.iml" timestamp="1474555909863" />
+  </project-files>
+</conversion>
+

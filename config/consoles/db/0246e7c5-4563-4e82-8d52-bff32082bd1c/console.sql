@@ -1,0 +1,1 @@
+SELECT count(*) from cs_listen_record_detail;
